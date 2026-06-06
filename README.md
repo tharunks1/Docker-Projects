@@ -115,6 +115,5 @@ From this project I learned:
 
 **Author:** Srinivas Tharun
 **Technology:** Docker, Nginx, AlmaLinux
-**Created For:** DevOps Learning and Practice
 
 
