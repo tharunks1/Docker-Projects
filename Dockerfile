@@ -6,4 +6,5 @@ LABEL course="devops"
 ENV course="devops" \
     trainer="siva" \
     duration="120Hrs"
+EXPOSE 80
 CMD ["nginx","-g","daemon off;"]
