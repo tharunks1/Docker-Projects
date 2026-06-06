@@ -13,8 +13,6 @@
 
 This project is created for learning Docker and Dockerfile concepts. In this project I created a custom Nginx image using AlmaLinux 9 as base image. The default Nginx web page is removed and replaced with a custom `index.html` page.
 
-This project helped me understand image building, container creation, labels, environment variables and nginx configuration inside Docker.
-
 ---
 
 ## Dockerfile Used
